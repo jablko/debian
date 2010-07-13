@@ -1,0 +1,18 @@
+Source: dtd-ead
+Section: text
+Priority: extra
+Maintainer: Jack Bates <ms419@freezone.co.uk>
+Build-Depends: debhelper (>= 8.0.0), xml-core
+Standards-Version: 3.9.2
+Homepage: http://loc.gov/ead/ead2002a.html
+Vcs-Browser: https://github.com/jablko/debian/tree/master/dtd-ead
+Vcs-Git: https://github.com/jablko/debian.git
+
+Package: dtd-ead
+Architecture: all
+Depends: ${misc:Depends}
+Description: Encoded Archival Description Document Type Definition
+ encodes that class of archival finding aids known as inventories and
+ registers, which are reference tools produced by archives, libraries,
+ universities, associations, agencies, and other organizations to describe,
+ control, and provide access to archival and manuscript materials.

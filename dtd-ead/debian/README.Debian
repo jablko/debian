@@ -1,0 +1,8 @@
+dtd-ead for Debian
+------------------
+
+This package registers ead.dtd with the Debian XML catalog system such that
+validating parsers use this local copy, instead of retreiving a remote copy, or
+failing to validate
+
+ -- Jack Bates <ms419@freezone.co.uk>  Fri, 26 Mar 2010 12:48:43 -0700

@@ -1,0 +1,29 @@
+This work was packaged for Debian by:
+
+    Jack Bates <ms419@freezone.co.uk> on Fri, 26 Mar 2010 12:48:43 -0700
+
+It was downloaded from:
+
+    http://loc.gov/ead/ead2002a.html
+
+Upstream Author:
+
+    Society of American Archivists <servicecenter@archivists.org>
+
+Copyright:
+
+    Copyright 2002 Society of American Archivists <servicecenter@archivists.org>
+
+License:
+
+    The copyright holders grant an unlimited perpetual, non-exclusive,
+    royalty-free, world-wide right and license to copy, publish and distribute
+    the EAD DTD in any way, and to prepare derivative works that are based on
+    or incorporate all or part of the EAD DTD.
+
+    The copyright holders make no representation about the suitability of the
+    EAD DTD for any purpose. It is provided "as is" without express or implied
+    warranty.
+
+The Debian packaging is copyright 2010 Jack Bates <ms419@freezone.co.uk>
+and is licensed under the same terms as the software itself, see above

@@ -1,0 +1,3 @@
+local;related_optional/xml/eadcatalog.xml;usr/share/xml/ead/schema/dtd/catalog.xml
+root-and-package;public;+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN;/usr/share/xml/ead/schema/dtd/catalog.xml
+root-and-package;system;ead.dtd;/usr/share/xml/ead/schema/dtd/catalog.xml
